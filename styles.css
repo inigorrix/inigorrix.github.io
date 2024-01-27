@@ -35,7 +35,7 @@ main {
 
 .description-text {
     flex: 1;
-    text-align: left; /* Align text to the left */
+    text-align: left;
 }
 
 .description-image {
@@ -63,15 +63,15 @@ main {
     }
 
     .description-content {
-        flex-direction: column; /* Stack the flex items vertically for mobile */
+        flex-direction: column;
     }
 
     .description-image {
-        order: -1; /* Move the image to the top in the mobile view */
+        order: -1;
     }
 
     .description-text {
-        text-align: left; /* Align text to the left on mobile */
+        text-align: left;
     }
 }
 
