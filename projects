@@ -11,8 +11,8 @@
 <header>
     <h1>Iñigo Ruiz</h1>
     <nav>
-        <a href="index.html">Home</a>
-        <a href="projects.html">Projects</a>
+        <a href="index">Home</a>
+        <a href="projects">Projects</a>
     </nav>
 </header>
 
@@ -30,7 +30,7 @@
             <div>
                 <h3>Knots and games of the tic-tac-toe type</h3>
                 <div class="project-content">
-                     <img src="https://github.com/inigorrix/knots_final_project/blob/main/docs/cob64.png?raw=true" alt="Turaev Surface">
+                     <img src="https://github.com/inigorrix/knots_final_project/blob/main/docs/turaev.gif?raw=true" alt="Turaev Surface">
                      <img src="https://github.com/inigorrix/knots_final_project/blob/main/docs/game2.png?raw=true" alt="Game2">
                 </div>
                 <p>This was my Final Project for my Industrial Design Engineering Degree, it was done with the help and support of Pedro González Manchón. It involved studying the basics of topology and knot theory and it lead to the development of a <a href="https://github.com/inigorrix/pyarcknot" target="_blank">Python Package</a> and two computer games.</p>
